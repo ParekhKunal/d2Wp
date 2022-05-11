@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ParekhKunal/d2Wp/static/css/main.1524e7fb.css",
-    "main.js": "/ParekhKunal/d2Wp/static/js/main.01801fda.js",
-    "static/js/787.f519c0e7.chunk.js": "/ParekhKunal/d2Wp/static/js/787.f519c0e7.chunk.js",
-    "static/media/wp1.png": "/ParekhKunal/d2Wp/static/media/wp1.0fc8e41d082b216e38ce.png",
-    "index.html": "/ParekhKunal/d2Wp/index.html",
-    "main.1524e7fb.css.map": "/ParekhKunal/d2Wp/static/css/main.1524e7fb.css.map",
-    "main.01801fda.js.map": "/ParekhKunal/d2Wp/static/js/main.01801fda.js.map",
-    "787.f519c0e7.chunk.js.map": "/ParekhKunal/d2Wp/static/js/787.f519c0e7.chunk.js.map"
+    "main.css": "/d2Wp/static/css/main.1524e7fb.css",
+    "main.js": "/d2Wp/static/js/main.8110a3f8.js",
+    "static/js/787.f519c0e7.chunk.js": "/d2Wp/static/js/787.f519c0e7.chunk.js",
+    "static/media/wp1.png": "/d2Wp/static/media/wp1.0fc8e41d082b216e38ce.png",
+    "index.html": "/d2Wp/index.html",
+    "main.1524e7fb.css.map": "/d2Wp/static/css/main.1524e7fb.css.map",
+    "main.8110a3f8.js.map": "/d2Wp/static/js/main.8110a3f8.js.map",
+    "787.f519c0e7.chunk.js.map": "/d2Wp/static/js/787.f519c0e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1524e7fb.css",
-    "static/js/main.01801fda.js"
+    "static/js/main.8110a3f8.js"
   ]
 }
